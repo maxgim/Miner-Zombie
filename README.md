@@ -10,6 +10,13 @@ Drops configurable through config.yml.
 Optional admin command to manually spawn Miner Zombies (/spawnminer [amount]).
 Drops, drop ammount, mob speed, mob spawn chance can be configured in config.yml.
 
+## Commands
+`/spawnminer [amount]`: Spawns one or more Miner Zombies near the player
+### Permissions
+minerzombie.spawn : Allows using /spawnminer
+Default perms: op
+
+
 ## 🧾 Setup Instructions
 1. Download the latest release of `MinerZombie.jar`.
 2. Place it inside your server’s `/plugins` folder.
