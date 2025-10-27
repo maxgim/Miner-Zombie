@@ -2,18 +2,18 @@
 The MinerZombie plugin adds a new underground mob called miner zombie.
 
 ## Features
-Naturally spawns below Y=40 and in total darkness.
-It always spawns as a Zombie Villager with profession.
-Holds an Iron Pickaxe.
-Increased movement speed.
-Drops configurable through config.yml.
-Optional admin command to manually spawn Miner Zombies (/spawnminer [amount]).
-Drops, drop ammount, mob speed, mob spawn chance can be configured in config.yml.
+Naturally spawns below Y=40 and in total darkness.  
+It always spawns as a Zombie Villager with profession.  
+Holds an Iron Pickaxe.  
+Increased movement speed.  
+Drops configurable through config.yml.  
+Optional admin command to manually spawn Miner Zombies (/spawnminer [amount]).  
+Drops, drop ammount, mob speed, mob spawn chance can be configured in config.yml.  
 
 ## Commands
 `/spawnminer [amount]`: Spawns one or more Miner Zombies near the player
 ### Permissions
-minerzombie.spawn : Allows using /spawnminer
+minerzombie.spawn : Allows using /spawnminer  
 Default perms: op
 
 
