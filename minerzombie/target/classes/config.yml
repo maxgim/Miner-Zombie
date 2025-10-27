@@ -1,0 +1,17 @@
+# MinerZombie by maxgim234
+
+# Max number of ores dropped when MinerZombie is killed
+max-drops: 10
+
+# Chance (0.0 to 1.0) that a zombie underground becomes a Miner Zombie
+natural-spawn-chance: 0.3
+
+# Speed of MinerZombie (1.0 = normal speed)
+speed-multiplier: 1.5
+
+# Drops of MinerZombie (material names)
+drops:
+  - RAW_IRON
+  - RAW_GOLD
+  - DIAMOND
+  - EMERALD

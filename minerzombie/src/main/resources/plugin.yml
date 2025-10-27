@@ -1,0 +1,12 @@
+name: minerzombie
+version: '1.0-SNAPSHOT'
+main: me.maxgim234.minerzombie.Minerzombie
+api-version: '1.21'
+author: maxgim234
+commands:
+  spawnminer:
+    usage: /spawnminer [amount]
+    permission: minerzombie.spawn
+permissions:
+  minerzombie.spawn:
+    default: op
